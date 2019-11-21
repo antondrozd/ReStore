@@ -1,5 +1,7 @@
 import React from 'react'
 
+import BookList from '../components/book-list'
+
 export const HomePage = () => {
-  return <h1>Home Page</h1>
+  return <BookList />
 }
