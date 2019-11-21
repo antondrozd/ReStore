@@ -1,0 +1,1 @@
+export { withBookstoreService } from './withBookstoreService'
